@@ -1,5 +1,5 @@
-Portfolio-Optimization
-Building a Portfolio Optimization Model  
+**Portfolio-Optimization
+Building a Portfolio Optimization Model  **
 
 Portfolio Optimization Using Modern Portfolio Theory
 
